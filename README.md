@@ -40,6 +40,10 @@ The report transforms raw customer and order data into actionable insights throu
 | Regions | Asia, Europe, North America, Other |
 
 ### Dataset Columns
+
+https://github.com/user-attachments/assets/4ea5e36a-fc6c-43e8-91bf-30a25e7c12ae
+
+
 - `Customer_ID` — Unique customer identifier
 - `Customer_Name` — Full name
 - `Email` — Customer email
