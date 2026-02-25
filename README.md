@@ -181,7 +181,11 @@ DIVIDE([Customers_Monthly] - [Customers_Last_Year], [Customers_Last_Year])
 ## 📬 Contact
 
 
-https://github.com/user-attachments/assets/263192c1-8717-4c1b-bf22-8b5d1061653c
+
+
+https://github.com/user-attachments/assets/29a25272-89e7-4dfa-9b27-8684d6c6a32f
+
+
 
 
 **Rafael Estrada**  
