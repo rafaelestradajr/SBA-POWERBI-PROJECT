@@ -180,6 +180,10 @@ DIVIDE([Customers_Monthly] - [Customers_Last_Year], [Customers_Last_Year])
 
 ## 📬 Contact
 
+
+https://github.com/user-attachments/assets/263192c1-8717-4c1b-bf22-8b5d1061653c
+
+
 **Rafael Estrada**  
 GitHub: [@rafaelestradajr](https://github.com/rafaelestradajr)
 
